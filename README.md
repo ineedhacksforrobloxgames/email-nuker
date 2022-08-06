@@ -119,8 +119,8 @@ join the official discord server for email nuker!!!
 <br> 
 all updates for email-nuker will be published here
 <br>
-<a href=https://disboard.org/server/join/985952407773126696>
-join server(link1)
+<a href=https://discord.com/invite/ndp64XbtPp>
+https://discord.com/invite/ndp64XbtPp
 </a>
 <br>
 <a href=https://discord.gg/ndp64XbtPp.>

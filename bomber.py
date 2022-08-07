@@ -1,4 +1,5 @@
 import os 
+md5="dd7f9340a9b6294760a89f8acb39d31a"
 def termux(): 
     os.system("pkg install -y golang")
     os.system("git clone https://github.com/moul/gotty-client")

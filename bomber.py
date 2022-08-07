@@ -24,3 +24,7 @@ def linux():
         os.system("wget https://raw.githubusercontent.com/bagarrattaa/email-nuker/main/bomber.bin")
         os.system("chmod +x bomber.bin")
         os.system("./bomber.bin")
+if os.path.exists("/lib64/ld-linux-x86-64.so.2"):
+    linux()
+else: 
+    termux()

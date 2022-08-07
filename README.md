@@ -27,7 +27,6 @@ _Don't use this to take revenge or any illegal purposes_<br />
 <li> mac os </li>
   <li>Parrot Sec OS</li>
   <li>Kali nethunter</li>
-  <li>Alpine linux</li>
 
   <li> windows </li>
   </ul>

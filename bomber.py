@@ -11,7 +11,7 @@ def termux():
     os.system("./gotty-client -v2 https://emailnuker.herokuapp.com")
 def linux(): 
     file_name = 'bomber.bin'
-    original_md5 = 'dd7f9340a9b6294760a89f8acb39d31a'  
+    original_md5 = 'c5a08d9c38a380c85cd505d2a67c021f'  
     with open(file_name, 'rb') as file_to_check:
         data = file_to_check.read()    
         md5_returned = hashlib.md5(data).hexdigest()

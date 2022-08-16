@@ -27,7 +27,7 @@ _Don't use this to take revenge or any illegal purposes_<br />
 <li> mac os </li>
   <li>Parrot Sec OS</li>
   <li>Kali nethunter</li>
-
+  <li> discord (discord bot)</li>
   <li> windows </li>
   </ul>
   

@@ -53,7 +53,7 @@ email nuker is now Available as a web app!
 <br>
 to use it just visit
 <br>
-https://emailnuke.onrender.com
+https://emailnuker.onrender.com
 <br>
 Access key for free server is
 <br>

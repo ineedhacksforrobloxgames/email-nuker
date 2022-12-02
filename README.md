@@ -59,6 +59,8 @@ Access key for free server is
 <br>
 public 
 <br>
+Opening it WILL take some time so, be patient, bombing is faster in this server, mails going to spam issue is almost over and pushed into server. Old heroku link got old and no work. Windows exe and other things will be updated soon. Only web app is working, other things are not working but will start working soon. This is for education purposes only
+<br>
 #### for termux 
 update the packages 
 

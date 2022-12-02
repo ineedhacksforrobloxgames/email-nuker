@@ -53,7 +53,11 @@ email nuker is now Available as a web app!
 <br>
 to use it just visit
 <br>
-https://emailnuker.herokuapp.com
+https://emailnuke.onrender.com
+<br>
+Access key for free server is
+<br>
+public 
 <br>
 #### for termux 
 update the packages 

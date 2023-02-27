@@ -20,7 +20,7 @@ _Don't use this to take revenge or any illegal purposes_<br />
 ## Tested On :
 <ul>
   <li>Kali Linux</li>
-  <li>Termux</li>
+ 
   <li>Ubuntu</li>
 <li> ios </li>
 <li> ipad os </li>
@@ -29,25 +29,11 @@ _Don't use this to take revenge or any illegal purposes_<br />
   <li>Kali nethunter</li>
   <li> discord (discord bot)</li>
   <li> windows </li>
+<li> android </li>
   </ul>
   
   
-  ## Termux Issue:
-* `Termux App is no longer recieving updates on playstore`
-* `due to recently introduced Google Play policy `
-<br>
-
-DON'T WORRY
-* `We have a solution for that !`
-<br>
-
-
-You can download the latest termux app and install it
-
-From here <a href="https://f-droid.org/repo/com.termux_118.apk">Link</a>
-
-
-  ## usage 
+  #  ## usage 
   #### web app 
 email nuker is now Available as a web app!
 <br>
@@ -61,32 +47,6 @@ public
 <br>
 Opening it WILL take some time so, be patient, bombing is faster in this server, mails going to spam issue is almost over and pushed into server. Old heroku link got old and no work. Windows exe and other things will be updated soon. Only web app is working, other things are not working but will start working soon. This is for education purposes only
 <br>
-#### for termux 
-update the packages 
-
-```bash
-pkg up -y
-```
-
-Install some dependencies
-```bash
-pkg install git python3 bash curl -y
-```
-```bash
-pip3 install requests
-```
-Clone the repository
-```bash
-git clone https://github.com/bagarrattaa/email-nuker
-```
-Go to the email-nuker directory
-```bash
-cd email-nuker
-```
-Run the script
-```bash
-python3 emailbomber.py
-```
 #### For Debian-based GNU/Linux distributions
 
 Update the packages

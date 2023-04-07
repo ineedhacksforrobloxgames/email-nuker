@@ -1,6 +1,8 @@
 # email-nuker v 2.0
 
+![GitHub](https://img.shields.io/github/license/bagarrattaa/email-nuker)
 [![Github All Releases](https://img.shields.io/github/downloads/bagarrattaa/email-nuker/total.svg)]()
+![GitHub issues](https://img.shields.io/github/issues/bagarrattaa/email-nuker)
 
 email-nuker is a Python-based email bomber. What makes it unique is that unlike other email bombers, it does not require your Gmail email ID to use.
 

@@ -20,7 +20,7 @@ _It is not intended to be used to take revenge or for any illegal purposes._
 
 
 ## Features
-* Unlimited Public Usage
+* Unlimited Free Usage
 * Cross Platform
 * Supports latest Android
 * Actively maintained
@@ -28,9 +28,9 @@ _It is not intended to be used to take revenge or for any illegal purposes._
 
 ## Tested On
 * Kali Linux
-* ios
-* ipad os
-* mac os
+* IOS
+* Ipad OS
+* Mac OS
 * Parrot Sec OS
 * Kali nethunter
 * discord (discord bot)
@@ -44,7 +44,7 @@ _It is not intended to be used to take revenge or for any illegal purposes._
 Email nuker is now Available as a web app!
 Navigate to https://emailnuker.onrender.com
 
-The access key for public usage is : *public*
+The access key for free usage is : *public*
 
 Opening it WILL take some time so, please be patient, the bombing process is faster through the web app.
 
@@ -110,9 +110,9 @@ Link 2
 
 # NOTES
 
-I know that many people faced a common problem that is due to the aount of users, since at the begining there was less users, less load on the server, and more google accounts available.
+I know that many people faced a common problem that is due to the aount of users, since at the beginning there was less users, less load on the server, and more google accounts available.
 
-Since we got more users, the bombinh per email ID ratio raised enough to trigger google who disable many of the gmail accounts used by the bomber.
+Since we got more users, the bombing per email ID ratio raised enough to trigger google who disable many of the gmail accounts used by the bomber.
 
 Because of that, google doesn't let me create email accounts without a phone number, otherwise they would be either banned (as long as all the accounts associated) or disabled.
 

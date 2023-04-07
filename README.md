@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/qqeoIIo.png" />
+</p>
+
 # email-nuker v 2.0
 
 ![GitHub](https://img.shields.io/github/license/bagarrattaa/email-nuker)

@@ -106,7 +106,16 @@ Link 1
 <a href=https://discord.gg/ndp64XbtPp.>
 Link 2
 </a>
+<br>
+telegram
 
+
+https://t.me/emailnukergroup
+
+
+<br>
+
+https://t.me/emailnukerchannel
 
 # NOTES
 
@@ -118,4 +127,4 @@ Because of that, google doesn't let me create email accounts without a phone num
 
 There is also the SMTP limit set by gmail (500 emails a day) beyond which the emails are not sent and google starts considering the account as fraudulent.
 
-If you want to support the project, please join us on DISCORD and donate me GMAIL IDS in DMs with PASSWORDS.
+If you want to support the project, please join us on DISCORD or TELEGRAM and donate me GMAIL IDS in DMs with PASSWORDS.
